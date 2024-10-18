@@ -1,1 +1,1 @@
-# TravellingSalesman
+# HamiltonianPath
